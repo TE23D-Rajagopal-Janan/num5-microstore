@@ -1,0 +1,14 @@
+C:\Users\janan.rajagopal\Documents\programmering\num5 microstore\microstore\obj\Debug\net8.0\microstore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janan.rajagopal\Documents\programmering\num5 microstore\microstore\obj\Debug\net8.0\microstore.AssemblyInfoInputs.cache
+C:\Users\janan.rajagopal\Documents\programmering\num5 microstore\microstore\obj\Debug\net8.0\microstore.AssemblyInfo.cs
+C:\Users\janan.rajagopal\Documents\programmering\num5 microstore\microstore\obj\Debug\net8.0\microstore.csproj.CoreCompileInputs.cache
+C:\Users\janan.rajagopal\Documents\programmering\num5 microstore\microstore\bin\Debug\net8.0\microstore.exe
+C:\Users\janan.rajagopal\Documents\programmering\num5 microstore\microstore\bin\Debug\net8.0\microstore.deps.json
+C:\Users\janan.rajagopal\Documents\programmering\num5 microstore\microstore\bin\Debug\net8.0\microstore.runtimeconfig.json
+C:\Users\janan.rajagopal\Documents\programmering\num5 microstore\microstore\bin\Debug\net8.0\microstore.dll
+C:\Users\janan.rajagopal\Documents\programmering\num5 microstore\microstore\bin\Debug\net8.0\microstore.pdb
+C:\Users\janan.rajagopal\Documents\programmering\num5 microstore\microstore\obj\Debug\net8.0\microstore.dll
+C:\Users\janan.rajagopal\Documents\programmering\num5 microstore\microstore\obj\Debug\net8.0\refint\microstore.dll
+C:\Users\janan.rajagopal\Documents\programmering\num5 microstore\microstore\obj\Debug\net8.0\microstore.pdb
+C:\Users\janan.rajagopal\Documents\programmering\num5 microstore\microstore\obj\Debug\net8.0\microstore.genruntimeconfig.cache
+C:\Users\janan.rajagopal\Documents\programmering\num5 microstore\microstore\obj\Debug\net8.0\ref\microstore.dll
