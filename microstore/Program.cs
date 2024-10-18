@@ -34,19 +34,15 @@ while (money > 0)
     if (köpval == "1")
     {
         money = money - 25 * antal;
-        Console.WriteLine("Du har köpt en kniv");
-
     }
 
     else if (köpval == "2")
     {
         money = money - 15 * antal;
-        Console.WriteLine("Du har köpt ett basebollträ");
     }
     else if (köpval == "3")
     {
         money = money - 75 * antal;
-        Console.WriteLine("Du har köpt en Glock");
     }
 }
 Console.WriteLine("Du har inga pengar kvar");
