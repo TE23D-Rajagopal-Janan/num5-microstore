@@ -12,3 +12,4 @@ C:\Users\janan.rajagopal\Documents\programmering\num5 microstore\microstore\obj\
 C:\Users\janan.rajagopal\Documents\programmering\num5 microstore\microstore\obj\Debug\net8.0\microstore.pdb
 C:\Users\janan.rajagopal\Documents\programmering\num5 microstore\microstore\obj\Debug\net8.0\microstore.genruntimeconfig.cache
 C:\Users\janan.rajagopal\Documents\programmering\num5 microstore\microstore\obj\Debug\net8.0\ref\microstore.dll
+C:\Users\janan.rajagopal\Documents\programmering\num5 microstore\microstore\obj\Debug\net8.0\microstore.sourcelink.json

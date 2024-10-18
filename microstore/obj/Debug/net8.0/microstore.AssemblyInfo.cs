@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("microstore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1bbefca7ce4fafaef49d745d96b49b4c30d7c16a")]
 [assembly: System.Reflection.AssemblyProductAttribute("microstore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("microstore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
